@@ -10,6 +10,7 @@ the codes written in CPP and contains:
     Quicksort,
     Radixsort,
     Countsort,
-    Heapsort,
-Except for count sort, all other algorithms are templates and can sort strings and integer arrays.
+    Heapsort.
+
+Except count sort, all other algorithms are uses templates and can sort strings and integer arrays.
 
